@@ -9,9 +9,6 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "dependencies": {
     "axios": "^1.6.5",
     "bootstrap": "^5.3.2",
